@@ -41,7 +41,7 @@ public class Sprint2 {
         //Calcular el nou volum de les piscines una vegada intercanviat els valors
         int nouvolumpiscina1 = piscina1Llarg * piscina1Ample * piscina1Profunditat;
         int nouvolumpiscina2 = piscina2Llarg * piscina2Ample * piscina2Profunditat;
-        
+
         System.out.println("El nou valor de profunditat de la piscina 1 és: " + piscina1Profunditat + " i el seu nou volum és: " + nouvolumpiscina1);
         System.out.println("El nou valor de profunditat de la piscina 2 és; " + piscina2Profunditat + " i el seu nou volum és: " + nouvolumpiscina2);
 
