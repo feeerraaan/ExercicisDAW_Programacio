@@ -32,7 +32,7 @@ public class Sprint3Piscines {
         profunditat1 = profunditat2;
         profunditat2 = intercanviprofunditat;
 
-        double nouvolum1 = area1*profunditat2;
+        double nouvolum1 = area1*profunditat1;
         double nouvolum2 = area2*profunditat2;
 
 
